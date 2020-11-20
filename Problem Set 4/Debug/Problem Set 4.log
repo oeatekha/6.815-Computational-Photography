@@ -1,0 +1,5 @@
+﻿  hdr.cpp
+C:\Users\oeate\source\repos\Problem Set 4\Problem Set 4\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 4\Problem Set 4\hdr.cpp(62,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 4\Problem Set 4\hdr.cpp(81,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Problem Set 4.vcxproj -> C:\Users\oeate\source\repos\Problem Set 4\Debug\Problem Set 4.exe
