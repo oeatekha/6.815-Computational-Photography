@@ -1,0 +1,63 @@
+﻿  a6_main.cpp
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(51,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(51,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(51,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(52,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(52,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\homography.h(52,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,15): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,41): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,67): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(97,80): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(124,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(125,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(125,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(126,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,15): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,41): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,67): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(143,80): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(181,12): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(181,21): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,15): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,41): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,67): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(231,80): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(241,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\a6_main.cpp(249,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  basicImageManipulation.cpp
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(26,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(27,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(37,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(38,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(64,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(65,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(100,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(101,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(150,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(151,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(182,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(183,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(187,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(192,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(193,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(229,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(230,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(417,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(419,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(421,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(436,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(437,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(438,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(548,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 6 - Homography\Problem Set 6 - Homography\basicImageManipulation.cpp(549,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Problem Set 6 - Homography.vcxproj -> C:\Users\oeate\source\repos\Problem Set 6 - Homography\x64\Debug\Problem Set 6 - Homography.exe

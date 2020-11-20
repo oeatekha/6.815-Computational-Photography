@@ -1,0 +1,24 @@
+  // ... use the UI to specify segments
+  vector<Segment> segsBefore;
+  segsBefore.push_back(Segment(Vec2f(169, 255), Vec2f(230, 253)));
+  segsBefore.push_back(Segment(Vec2f(344, 261), Vec2f(292, 255)));
+  segsBefore.push_back(Segment(Vec2f(124, 371), Vec2f(247, 537)));
+  segsBefore.push_back(Segment(Vec2f(293, 528), Vec2f(358, 377)));
+  segsBefore.push_back(Segment(Vec2f(268, 241), Vec2f(274, 283)));
+  segsBefore.push_back(Segment(Vec2f(274, 344), Vec2f(272, 469)));
+  segsBefore.push_back(Segment(Vec2f(221, 407), Vec2f(312, 404)));
+  segsBefore.push_back(Segment(Vec2f(120, 222), Vec2f(121, 351)));
+
+
+  vector<Segment> segsAfter;
+  segsAfter.push_back(Segment(Vec2f(169, 244), Vec2f(207, 248)));
+  segsAfter.push_back(Segment(Vec2f(315, 240), Vec2f(271, 243)));
+  segsAfter.push_back(Segment(Vec2f(150, 338), Vec2f(209, 395)));
+  segsAfter.push_back(Segment(Vec2f(262, 392), Vec2f(334, 344)));
+  segsAfter.push_back(Segment(Vec2f(242, 249), Vec2f(242, 299)));
+  segsAfter.push_back(Segment(Vec2f(240, 336), Vec2f(238, 351)));
+  segsAfter.push_back(Segment(Vec2f(200, 339), Vec2f(282, 341)));
+  segsAfter.push_back(Segment(Vec2f(140, 201), Vec2f(145, 319)));
+
+  // This should monsterify Fredo a little.
+  vector<Image> out = morph(werewolf, fredo, segsBefore, segsAfter, 30);
