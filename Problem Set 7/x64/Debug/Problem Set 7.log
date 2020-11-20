@@ -1,0 +1,42 @@
+﻿  a7_main.cpp
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,15): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,41): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,67): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(198,80): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,15): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,36): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,54): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(223,77): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\a7_main.cpp(224,19): warning C4305: 'argument': truncation from 'double' to 'const float'
+  blending.cpp
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(51,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,15): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,19): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\homography.h(52,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(72,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(72,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(96,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(97,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(133,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(134,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(163,43): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(256,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(272,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeate\source\repos\Problem Set 7\Problem Set 7\blending.cpp(275,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Problem Set 7.vcxproj -> C:\Users\oeate\source\repos\Problem Set 7\x64\Debug\Problem Set 7.exe
