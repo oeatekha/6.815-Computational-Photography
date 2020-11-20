@@ -1,0 +1,4 @@
+﻿  a5_main.cpp
+C:\Users\oeate\source\repos\Problem Set 5\Problem Set 5\basicImageManipulation.h(27,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\oeate\source\repos\Problem Set 5\Problem Set 5\a5_main.cpp(71,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Problem Set 5.vcxproj -> C:\Users\oeate\source\repos\Problem Set 5\x64\Debug\Problem Set 5.exe
